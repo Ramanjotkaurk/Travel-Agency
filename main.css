@@ -74,7 +74,7 @@
     ================================ */
     .header-section {
       width: 100%;
-      background: url("./image/Bali1.avif") center/cover no-repeat;
+      background: url("./image/bali1.avif") center/cover no-repeat;
       display: flex;
       flex-direction: column;
     }
