@@ -1,13 +1,13 @@
-# ✈️ Travel Agency Website
+**Travel Agency Website**
 
-A modern, responsive landing page for a **Travel Agency**, built using **HTML, CSS, JavaScript, and Bootstrap**.  
+A modern, responsive landing page for a **Travel Agency**, built using **HTML, CSS and JavaScript**.  
 The website showcases tour packages, destinations, and booking CTAs with a clean and engaging UI.
 
-🔗 **Live Demo:** [travel-agency-nu-six.vercel.app](https://travel-agency-nu-six.vercel.app/)
+ **Live Demo:** [travel-agency-nu-six.vercel.app](https://travel-agency-nu-six.vercel.app/)
 
 ---
 
-## 📌 Features
+**Features**
 - Fully responsive design (mobile, tablet, desktop)
 - Hero section with a travel theme banner
 - Tour packages and destinations showcase
@@ -17,17 +17,16 @@ The website showcases tour packages, destinations, and booking CTAs with a clean
 
 ---
 
-## 🛠️ Tech Stack
+**Tech Stack**
 - **HTML5**
 - **CSS3**
-- **Bootstrap 5**
 - **JavaScript**
 
 ---
 
-## 🚀 Getting Started
+**Getting Started**
 
-### Clone the repository
+**Clone the repository**
 ```bash
 git clone https://github.com/your-username/travel-agency.git
 
